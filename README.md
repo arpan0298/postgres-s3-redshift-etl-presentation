@@ -1,4 +1,4 @@
-# 📦 DS-530 PostgreSQL→Redshift Pipeline Presentation
+# 📦 PostgreSQL→Redshift Pipeline Presentation
 
 A complete walkthrough of my ETL pipeline design and performance results, delivered as part of my DS-530 coursework.
 
